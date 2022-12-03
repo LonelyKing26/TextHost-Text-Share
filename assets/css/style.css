@@ -1,0 +1,25 @@
+/* .heading{
+    background: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.content{
+
+    background: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    
+    
+}
+body{
+    background: #0000ff14;
+} */
+footer{
+    height: 200px;
+    bottom: 0px;
+    /* background-color: rgb(230, 230, 255); */
+}
